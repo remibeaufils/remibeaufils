@@ -7,7 +7,7 @@ I am a full-stack software engineer with a passion for web3 and blockchain techn
 
 <!-- Currently, I'm working on [specific projects, technologies, or frameworks you're using]. -->
 
-## Frequently Used Languages and Tools
+## Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -40,7 +40,7 @@ I am a full-stack software engineer with a passion for web3 and blockchain techn
 
 <!-- ![](https://komarev.com/ghpvc/?username=remibeaufils) -->
 
-## Github Activity
+## Github Stats
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=remibeaufils)](#) -->
 
