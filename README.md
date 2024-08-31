@@ -3,11 +3,11 @@
 
 ## Hi there 👋
 
-I'm a full-stack software engineer with a passion for web3 and blockchain technologies. I enjoy building innovative solutions that leverage decentralized platforms and contribute to the growth of the blockchain ecosystem.
+I am a full-stack software engineer with a passion for web3 and blockchain technologies. I enjoy building innovative solutions that leverage decentralized platforms and contribute to the growth of the blockchain ecosystem.
 
 <!-- Currently, I'm working on [specific projects, technologies, or frameworks you're using]. -->
 
-## My Toolbox
+## Frequently Used Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -36,4 +36,17 @@ I'm a full-stack software engineer with a passion for web3 and blockchain techno
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+![and more](https://img.shields.io/badge/and_more-✨-000?labelColor=000)
+
 <!-- ![](https://komarev.com/ghpvc/?username=remibeaufils) -->
+
+## Github Activity
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=remibeaufils)](#) -->
+
+<!-- [![GitHub streak stats](https://streak-stats.demolab.com/?user=remibeaufils)](#) -->
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=remibeaufils&theme=dark&show_icons=true) -->
+
+<span><img height=200 align="center" src="https://github-readme-stats-r10s.vercel.app/api?username=remibeaufils&theme=transparent&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true&custom_title=Github%20Stats&hide_title=true&text_bold=false&show_icons=true&hide_border=true" /></span>
+<!-- <span><img height=200 align="center" src="https://github-readme-stats-r10s.vercel.app/api/top-langs?username=remibeaufils&langs_count=99&card_width=320&layout=compact&theme=transparent&exclude_repo=bambox-api,bambox-backoffice,bambox-storefront,elegimejor,wows&hide_title=true" /></span> -->
