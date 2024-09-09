@@ -48,5 +48,5 @@ I am a full-stack software engineer with a passion for web3 and blockchain techn
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=remibeaufils&theme=dark&show_icons=true) -->
 
-<span><img height=200 align="center" src="https://github-readme-stats-r10s.vercel.app/api?username=remibeaufils&theme=transparent&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true&custom_title=Github%20Stats&hide_title=true&text_bold=false&show_icons=true&hide_border=true" /></span>
+<!-- <span><img height=200 align="center" src="https://github-readme-stats-r10s.vercel.app/api?username=remibeaufils&theme=transparent&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true&custom_title=Github%20Stats&hide_title=true&text_bold=false&show_icons=true&hide_border=true" /></span> -->
 <!-- <span><img height=200 align="center" src="https://github-readme-stats-r10s.vercel.app/api/top-langs?username=remibeaufils&langs_count=99&card_width=320&layout=compact&theme=transparent&exclude_repo=bambox-api,bambox-backoffice,bambox-storefront,elegimejor,wows&hide_title=true" /></span> -->
