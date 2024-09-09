@@ -40,7 +40,7 @@ I am a full-stack software engineer with a passion for web3 and blockchain techn
 
 <!-- ![](https://komarev.com/ghpvc/?username=remibeaufils) -->
 
-## Github Stats
+<!-- ## Github Stats -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=remibeaufils)](#) -->
 
