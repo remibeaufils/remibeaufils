@@ -7,6 +7,10 @@ I am a full-stack software engineer with a passion for web3 and blockchain techn
 
 <!-- Currently, I'm working on [specific projects, technologies, or frameworks you're using]. -->
 
+### Get in Touch
+
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/remi-beaufils).
+
 ## Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
